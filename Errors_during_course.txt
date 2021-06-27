@@ -1,0 +1,7 @@
+.ini file in the STS folder defines the initial config of the STS.
+The heap error might arise. In order to solve the error, one may:
+1. either include _JAVA_OPTIONS environ var
+and set the value as -Xmx2g, where XMX means max cap of the heap and 2g is the space, 2g = 2gb (one can also 
+define with m, which is mb)
+2. Go to Run->Run Configurations then under arguments set the VM Arguments as -Xmx2g and save.
+3. FYI, there is another arg as Xms, which is the minimum space of the heap. eg: -Xms1g
