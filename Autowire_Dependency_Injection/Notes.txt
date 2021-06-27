@@ -1,3 +1,5 @@
+[SideNote: Ctrl+Space for Autocomplete in STS]
+
 1. Function of Generating Getters and Setters in Source Column :
 Used for making a template to set or get the vars
 2. Idea of Dependency Injection: To create instance of a class in main while
@@ -30,3 +32,6 @@ injecting a particular trait into the context
 7. Eclipse provides toString, which prints all the vars of an object.
 
 8. In order to instantiate a class in another class, we use AutoWiring
+ In order to do the above, we @Autowired
+ @Autowired by default searches by type, @Qualifier searches by name
+ 
