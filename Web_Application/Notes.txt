@@ -17,3 +17,13 @@ For this, go to the permission file, pom.xml and add the Dependency of tomcat ja
 from the https://mvnrepository.com/ and then get the appropriate version, preferably 
 the one available for tomcat in maven repositories
 
+6. Web App folder is public, in order to make it private or lets say not to include the file
+extension we edit the Application properties which resides in the resources folder
+
+7. spring.mvc.view.prefix=/pages/ for prefix of spring mvc view 
+   spring.mvc.view.suffix=.jsp for suffix of spring mvc view
+
+8. Get the contents by session. Make a HttpServletRequest and then get the parameter. then
+call the session, and set the attribute in that session
+
+9. For request, we use HttpServletRequest; for response, we use HttpServletResponse

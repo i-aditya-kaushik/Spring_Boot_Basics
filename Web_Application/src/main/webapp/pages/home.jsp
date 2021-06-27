@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	Template Web App
+	Welcome ${name}
 </body>
 </html>
-
-localhost:8080/home
