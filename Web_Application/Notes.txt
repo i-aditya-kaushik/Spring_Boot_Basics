@@ -37,3 +37,5 @@ the ease of use
 
 13. We send the data and viewname using ModelAndView. Data is added from addObject
 and the view is set from setViewName
+
+14. ModelObjects can be passed using Spring Framework
