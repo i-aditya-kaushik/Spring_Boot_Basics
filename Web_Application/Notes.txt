@@ -1,0 +1,19 @@
+1. For Web Application, there are many starter Dependencies which can be used 
+    In the src folder, create a webpage, lets say of type jsp and call it home.jsp
+
+2. Post this, we need to create a controller. For this, we create a new class
+    Import controller by making a new class and defining it as @Controller 
+    We have 
+    In order to map we use @RequestMapping and in the argument, we pass the name of the file
+    We do not need external server.. that is because we have tomcat embedded in the Dependencies
+    Advantages: Flexibility and ease of use 
+3. In order to return a particular file, we return a string of the file name
+    It is a must to place your web app files in src/main/webapp as per the documentation by default
+
+4. Relaunch the web app (present in the tab above) as Tomcat does not tend to close and Relaunch.
+
+5. Spring Boot does not support jsp, so we need to add support
+For this, go to the permission file, pom.xml and add the Dependency of tomcat jasper
+from the https://mvnrepository.com/ and then get the appropriate version, preferably 
+the one available for tomcat in maven repositories
+

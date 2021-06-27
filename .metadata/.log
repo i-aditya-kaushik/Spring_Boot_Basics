@@ -5656,3 +5656,1560 @@ java.lang.InterruptedException
 
 !ENTRY Activator 1 0 2021-06-27 08:16:56.345
 !MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:20:44.560
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:20:44.560
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:23:52.182
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:23:52.183
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:23:52.271
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:23:52.273
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:23:52.302
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:23:52.304
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:23:52.332
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:08.584
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:08.595
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:08.616
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:08.632
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:08.635
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:08.675
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:08.676
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:08.702
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:08.704
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:08.915
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:08.915
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:08.942
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:08.944
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:08.990
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:08.991
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:24:08.992
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:24:08.992
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:24:08.992
+!MESSAGE buffering callback sts4.classpath.bDYSkRsc Web_Application false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:24:08.992
+!MESSAGE executing callback sts4.classpath.bDYSkRsc 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:24:09.001
+!MESSAGE executing callback sts4.classpath.bDYSkRsc SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-06-27 08:24:09.199
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:24:09.201
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:24:09.207
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:24:09.210
+!MESSAGE buffering callback sts4.classpath.bDYSkRsc Web_Application false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:24:09.211
+!MESSAGE executing callback sts4.classpath.bDYSkRsc 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:24:09.236
+!MESSAGE executing callback sts4.classpath.bDYSkRsc SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-06-27 08:24:09.619
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:09.646
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:09.737
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:10.176
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:10.183
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:10.233
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:10.469
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:10.470
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:10.470
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:24:10.605
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY Activator 1 0 2021-06-27 08:24:10.605
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:24:10.608
+!MESSAGE classpath=66 entries
+
+!ENTRY Activator 1 0 2021-06-27 08:24:10.611
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:24:10.621
+!MESSAGE buffering callback sts4.classpath.bDYSkRsc Web_Application false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:24:10.621
+!MESSAGE executing callback sts4.classpath.bDYSkRsc 1 batched events
+
+!ENTRY Activator 1 0 2021-06-27 08:24:10.622
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:10.779
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:10.780
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:10.781
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:24:10.832
+!MESSAGE executing callback sts4.classpath.bDYSkRsc SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-06-27 08:24:11.219
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:11.332
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:11.350
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:12.006
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:12.007
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:12.014
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:36.998
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:24:36.998
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:24:37.009
+!MESSAGE classpath=66 entries
+
+!ENTRY Activator 1 0 2021-06-27 08:24:37.013
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:37.023
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:24:37.043
+!MESSAGE buffering callback sts4.classpath.bDYSkRsc Web_Application false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:24:37.043
+!MESSAGE executing callback sts4.classpath.bDYSkRsc 1 batched events
+
+!ENTRY Activator 1 0 2021-06-27 08:24:37.099
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:37.101
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:24:37.130
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:24:37.164
+!MESSAGE executing callback sts4.classpath.bDYSkRsc SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-06-27 08:27:58.676
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:27:58.677
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 08:27:58.681
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:28:50.460
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.bDYSkRsc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:28:50.460
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.bDYSkRsc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:28:50.460
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:28:50.460
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.bDYSkRsc => OK
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.427
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.artifact.repository.compositeRepository
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.osgi.framework.BundleContext.createFilter(String)" because "context" is null
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:187)
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:250)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getHttpClientFactory(Activator.java:241)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getBrowseHttpClient(Activator.java:266)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientBrowseFileTransferFactory$1.sendBrowseRequest(HttpClientBrowseFileTransferFactory.java:59)
+	at org.eclipse.ecf.provider.filetransfer.browse.MultiProtocolFileSystemBrowserAdapter.sendBrowseRequest(MultiProtocolFileSystemBrowserAdapter.java:97)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.sendBrowseRequest(FileInfoReader.java:184)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:109)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:125)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:130)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:249)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.getLastModified(CacheManager.java:276)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:230)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.getLocalFile(CompositeArtifactRepositoryFactory.java:71)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:95)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:779)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:677)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.load(CompositeArtifactRepository.java:496)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.addChild(CompositeArtifactRepository.java:177)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.<init>(CompositeArtifactRepository.java:99)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:120)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:779)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:677)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.load(CompositeArtifactRepository.java:496)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.addChild(CompositeArtifactRepository.java:177)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.<init>(CompositeArtifactRepository.java:99)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:120)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:779)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:677)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedRepository(ProvisioningContext.java:189)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedArtifactRepositories(ProvisioningContext.java:163)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getArtifactRepositories(ProvisioningContext.java:149)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.getArtifactRepositories(DownloadManager.java:110)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.start(DownloadManager.java:95)
+	at org.eclipse.equinox.internal.p2.engine.phases.Collect.completePhase(Collect.java:111)
+	at org.eclipse.equinox.internal.p2.engine.Phase.postPerform(Phase.java:254)
+	at org.eclipse.equinox.internal.p2.engine.Phase.perform(Phase.java:105)
+	at org.eclipse.equinox.internal.p2.engine.PhaseSet.perform(PhaseSet.java:50)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:80)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:48)
+	at org.eclipse.equinox.p2.operations.ProvisioningSession.performProvisioningPlan(ProvisioningSession.java:181)
+	at org.eclipse.equinox.p2.operations.ProfileModificationJob.runModal(ProfileModificationJob.java:76)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:188)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2021-06-27 08:39:46.436
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: Error while reading from repository: https://download.eclipse.org/technology/epp/packages/2021-06/site.xml.
+	at org.eclipse.equinox.internal.p2.updatesite.UpdateSite.loadActualSiteFile(UpdateSite.java:255)
+	at org.eclipse.equinox.internal.p2.updatesite.UpdateSite.load(UpdateSite.java:155)
+	at org.eclipse.equinox.internal.p2.updatesite.artifact.UpdateSiteArtifactRepositoryFactory.initializeRepository(UpdateSiteArtifactRepositoryFactory.java:103)
+	at org.eclipse.equinox.internal.p2.updatesite.artifact.UpdateSiteArtifactRepositoryFactory.load(UpdateSiteArtifactRepositoryFactory.java:61)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:779)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:677)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.load(CompositeArtifactRepository.java:496)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.addChild(CompositeArtifactRepository.java:177)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.<init>(CompositeArtifactRepository.java:99)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:120)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:779)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:677)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.load(CompositeArtifactRepository.java:496)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.addChild(CompositeArtifactRepository.java:177)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.<init>(CompositeArtifactRepository.java:99)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:120)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:779)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:677)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedRepository(ProvisioningContext.java:189)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedArtifactRepositories(ProvisioningContext.java:163)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getArtifactRepositories(ProvisioningContext.java:149)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.getArtifactRepositories(DownloadManager.java:110)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.start(DownloadManager.java:95)
+	at org.eclipse.equinox.internal.p2.engine.phases.Collect.completePhase(Collect.java:111)
+	at org.eclipse.equinox.internal.p2.engine.Phase.postPerform(Phase.java:254)
+	at org.eclipse.equinox.internal.p2.engine.Phase.perform(Phase.java:105)
+	at org.eclipse.equinox.internal.p2.engine.PhaseSet.perform(PhaseSet.java:50)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:80)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:48)
+	at org.eclipse.equinox.p2.operations.ProvisioningSession.performProvisioningPlan(ProvisioningSession.java:181)
+	at org.eclipse.equinox.p2.operations.ProfileModificationJob.runModal(ProfileModificationJob.java:76)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:188)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.equinox.p2.transport.ecf 4 1002 2021-06-27 08:39:46.436
+!MESSAGE Error while reading from repository: https://download.eclipse.org/technology/epp/packages/2021-06/site.xml.
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2021-06-27 08:39:46.437
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: Unable to read repository at https://download.eclipse.org/releases/2021-06/.
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.addChild(CompositeArtifactRepository.java:187)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.<init>(CompositeArtifactRepository.java:99)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:120)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:779)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:677)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.load(CompositeArtifactRepository.java:496)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.addChild(CompositeArtifactRepository.java:177)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.<init>(CompositeArtifactRepository.java:99)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:120)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:779)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:677)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedRepository(ProvisioningContext.java:189)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedArtifactRepositories(ProvisioningContext.java:163)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getArtifactRepositories(ProvisioningContext.java:149)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.getArtifactRepositories(DownloadManager.java:110)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.start(DownloadManager.java:95)
+	at org.eclipse.equinox.internal.p2.engine.phases.Collect.completePhase(Collect.java:111)
+	at org.eclipse.equinox.internal.p2.engine.Phase.postPerform(Phase.java:254)
+	at org.eclipse.equinox.internal.p2.engine.Phase.perform(Phase.java:105)
+	at org.eclipse.equinox.internal.p2.engine.PhaseSet.perform(PhaseSet.java:50)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:80)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:48)
+	at org.eclipse.equinox.p2.operations.ProvisioningSession.performProvisioningPlan(ProvisioningSession.java:181)
+	at org.eclipse.equinox.p2.operations.ProfileModificationJob.runModal(ProfileModificationJob.java:76)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:188)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.equinox.p2.core.ProvisionException: Error while reading from repository: https://download.eclipse.org/technology/epp/packages/2021-06/site.xml.
+	at org.eclipse.equinox.internal.p2.updatesite.UpdateSite.loadActualSiteFile(UpdateSite.java:255)
+	at org.eclipse.equinox.internal.p2.updatesite.UpdateSite.load(UpdateSite.java:155)
+	at org.eclipse.equinox.internal.p2.updatesite.artifact.UpdateSiteArtifactRepositoryFactory.initializeRepository(UpdateSiteArtifactRepositoryFactory.java:103)
+	at org.eclipse.equinox.internal.p2.updatesite.artifact.UpdateSiteArtifactRepositoryFactory.load(UpdateSiteArtifactRepositoryFactory.java:61)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:779)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:677)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.load(CompositeArtifactRepository.java:496)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.addChild(CompositeArtifactRepository.java:177)
+	... 31 more
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 1002 2021-06-27 08:39:46.437
+!MESSAGE Unable to read repository at https://download.eclipse.org/releases/2021-06/.
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: Error while reading from repository: https://download.eclipse.org/technology/epp/packages/2021-06/site.xml.
+	at org.eclipse.equinox.internal.p2.updatesite.UpdateSite.loadActualSiteFile(UpdateSite.java:255)
+	at org.eclipse.equinox.internal.p2.updatesite.UpdateSite.load(UpdateSite.java:155)
+	at org.eclipse.equinox.internal.p2.updatesite.artifact.UpdateSiteArtifactRepositoryFactory.initializeRepository(UpdateSiteArtifactRepositoryFactory.java:103)
+	at org.eclipse.equinox.internal.p2.updatesite.artifact.UpdateSiteArtifactRepositoryFactory.load(UpdateSiteArtifactRepositoryFactory.java:61)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:779)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:677)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.load(CompositeArtifactRepository.java:496)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.addChild(CompositeArtifactRepository.java:177)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.<init>(CompositeArtifactRepository.java:99)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:120)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:779)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:677)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.load(CompositeArtifactRepository.java:496)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.addChild(CompositeArtifactRepository.java:177)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.<init>(CompositeArtifactRepository.java:99)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:120)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:779)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:677)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedRepository(ProvisioningContext.java:189)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedArtifactRepositories(ProvisioningContext.java:163)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getArtifactRepositories(ProvisioningContext.java:149)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.getArtifactRepositories(DownloadManager.java:110)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.start(DownloadManager.java:95)
+	at org.eclipse.equinox.internal.p2.engine.phases.Collect.completePhase(Collect.java:111)
+	at org.eclipse.equinox.internal.p2.engine.Phase.postPerform(Phase.java:254)
+	at org.eclipse.equinox.internal.p2.engine.Phase.perform(Phase.java:105)
+	at org.eclipse.equinox.internal.p2.engine.PhaseSet.perform(PhaseSet.java:50)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:80)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:48)
+	at org.eclipse.equinox.p2.operations.ProvisioningSession.performProvisioningPlan(ProvisioningSession.java:181)
+	at org.eclipse.equinox.p2.operations.ProfileModificationJob.runModal(ProfileModificationJob.java:76)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:188)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 2 org.eclipse.equinox.p2.transport.ecf 4 1002 2021-06-27 08:39:46.437
+!MESSAGE Error while reading from repository: https://download.eclipse.org/technology/epp/packages/2021-06/site.xml.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.439
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.artifact.repository.simpleRepository
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.osgi.framework.BundleContext.createFilter(String)" because "context" is null
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:187)
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:250)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getHttpClientFactory(Activator.java:241)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getBrowseHttpClient(Activator.java:266)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientBrowseFileTransferFactory$1.sendBrowseRequest(HttpClientBrowseFileTransferFactory.java:59)
+	at org.eclipse.ecf.provider.filetransfer.browse.MultiProtocolFileSystemBrowserAdapter.sendBrowseRequest(MultiProtocolFileSystemBrowserAdapter.java:97)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.sendBrowseRequest(FileInfoReader.java:184)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:109)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:125)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:130)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:249)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.getLastModified(CacheManager.java:276)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:230)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepositoryFactory.getLocalFile(SimpleArtifactRepositoryFactory.java:68)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepositoryFactory.load(SimpleArtifactRepositoryFactory.java:92)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepositoryFactory.load(SimpleArtifactRepositoryFactory.java:80)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:779)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:677)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedRepository(ProvisioningContext.java:189)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedArtifactRepositories(ProvisioningContext.java:163)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getArtifactRepositories(ProvisioningContext.java:149)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.getArtifactRepositories(DownloadManager.java:110)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.start(DownloadManager.java:95)
+	at org.eclipse.equinox.internal.p2.engine.phases.Collect.completePhase(Collect.java:111)
+	at org.eclipse.equinox.internal.p2.engine.Phase.postPerform(Phase.java:254)
+	at org.eclipse.equinox.internal.p2.engine.Phase.perform(Phase.java:105)
+	at org.eclipse.equinox.internal.p2.engine.PhaseSet.perform(PhaseSet.java:50)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:80)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:48)
+	at org.eclipse.equinox.p2.operations.ProvisioningSession.performProvisioningPlan(ProvisioningSession.java:181)
+	at org.eclipse.equinox.p2.operations.ProfileModificationJob.runModal(ProfileModificationJob.java:76)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:188)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.440
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.artifact.repository.compositeRepository
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.osgi.framework.BundleContext.createFilter(String)" because "context" is null
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:187)
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:250)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getHttpClientFactory(Activator.java:241)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getBrowseHttpClient(Activator.java:266)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientBrowseFileTransferFactory$1.sendBrowseRequest(HttpClientBrowseFileTransferFactory.java:59)
+	at org.eclipse.ecf.provider.filetransfer.browse.MultiProtocolFileSystemBrowserAdapter.sendBrowseRequest(MultiProtocolFileSystemBrowserAdapter.java:97)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.sendBrowseRequest(FileInfoReader.java:184)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:109)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:125)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:130)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:249)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.getLastModified(CacheManager.java:276)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:230)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.getLocalFile(CompositeArtifactRepositoryFactory.java:71)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:95)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:779)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:677)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedRepository(ProvisioningContext.java:189)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedArtifactRepositories(ProvisioningContext.java:163)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getArtifactRepositories(ProvisioningContext.java:149)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.getArtifactRepositories(DownloadManager.java:110)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.start(DownloadManager.java:95)
+	at org.eclipse.equinox.internal.p2.engine.phases.Collect.completePhase(Collect.java:111)
+	at org.eclipse.equinox.internal.p2.engine.Phase.postPerform(Phase.java:254)
+	at org.eclipse.equinox.internal.p2.engine.Phase.perform(Phase.java:105)
+	at org.eclipse.equinox.internal.p2.engine.PhaseSet.perform(PhaseSet.java:50)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:80)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:48)
+	at org.eclipse.equinox.p2.operations.ProvisioningSession.performProvisioningPlan(ProvisioningSession.java:181)
+	at org.eclipse.equinox.p2.operations.ProfileModificationJob.runModal(ProfileModificationJob.java:76)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:188)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.445
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.artifact.repository.simpleRepository
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.osgi.framework.BundleContext.createFilter(String)" because "context" is null
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:187)
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:250)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getHttpClientFactory(Activator.java:241)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getBrowseHttpClient(Activator.java:266)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientBrowseFileTransferFactory$1.sendBrowseRequest(HttpClientBrowseFileTransferFactory.java:59)
+	at org.eclipse.ecf.provider.filetransfer.browse.MultiProtocolFileSystemBrowserAdapter.sendBrowseRequest(MultiProtocolFileSystemBrowserAdapter.java:97)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.sendBrowseRequest(FileInfoReader.java:184)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:109)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:125)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:130)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:249)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.getLastModified(CacheManager.java:276)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:230)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepositoryFactory.getLocalFile(SimpleArtifactRepositoryFactory.java:68)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepositoryFactory.load(SimpleArtifactRepositoryFactory.java:92)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepositoryFactory.load(SimpleArtifactRepositoryFactory.java:80)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:779)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:677)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedRepository(ProvisioningContext.java:189)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedArtifactRepositories(ProvisioningContext.java:163)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getArtifactRepositories(ProvisioningContext.java:149)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.getArtifactRepositories(DownloadManager.java:110)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.start(DownloadManager.java:95)
+	at org.eclipse.equinox.internal.p2.engine.phases.Collect.completePhase(Collect.java:111)
+	at org.eclipse.equinox.internal.p2.engine.Phase.postPerform(Phase.java:254)
+	at org.eclipse.equinox.internal.p2.engine.Phase.perform(Phase.java:105)
+	at org.eclipse.equinox.internal.p2.engine.PhaseSet.perform(PhaseSet.java:50)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:80)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:48)
+	at org.eclipse.equinox.p2.operations.ProvisioningSession.performProvisioningPlan(ProvisioningSession.java:181)
+	at org.eclipse.equinox.p2.operations.ProfileModificationJob.runModal(ProfileModificationJob.java:76)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:188)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.446
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.artifact.repository.compositeRepository
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.osgi.framework.BundleContext.createFilter(String)" because "context" is null
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:187)
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:250)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getHttpClientFactory(Activator.java:241)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getBrowseHttpClient(Activator.java:266)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientBrowseFileTransferFactory$1.sendBrowseRequest(HttpClientBrowseFileTransferFactory.java:59)
+	at org.eclipse.ecf.provider.filetransfer.browse.MultiProtocolFileSystemBrowserAdapter.sendBrowseRequest(MultiProtocolFileSystemBrowserAdapter.java:97)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.sendBrowseRequest(FileInfoReader.java:184)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:109)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:125)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:130)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:249)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.getLastModified(CacheManager.java:276)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:230)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.getLocalFile(CompositeArtifactRepositoryFactory.java:71)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:95)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:779)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:677)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedRepository(ProvisioningContext.java:189)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedArtifactRepositories(ProvisioningContext.java:163)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getArtifactRepositories(ProvisioningContext.java:149)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.getArtifactRepositories(DownloadManager.java:110)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.start(DownloadManager.java:95)
+	at org.eclipse.equinox.internal.p2.engine.phases.Collect.completePhase(Collect.java:111)
+	at org.eclipse.equinox.internal.p2.engine.Phase.postPerform(Phase.java:254)
+	at org.eclipse.equinox.internal.p2.engine.Phase.perform(Phase.java:105)
+	at org.eclipse.equinox.internal.p2.engine.PhaseSet.perform(PhaseSet.java:50)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:80)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:48)
+	at org.eclipse.equinox.p2.operations.ProvisioningSession.performProvisioningPlan(ProvisioningSession.java:181)
+	at org.eclipse.equinox.p2.operations.ProfileModificationJob.runModal(ProfileModificationJob.java:76)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:188)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.452
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.artifact.repository.simpleRepository
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.osgi.framework.BundleContext.createFilter(String)" because "context" is null
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:187)
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:250)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getHttpClientFactory(Activator.java:241)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getBrowseHttpClient(Activator.java:266)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientBrowseFileTransferFactory$1.sendBrowseRequest(HttpClientBrowseFileTransferFactory.java:59)
+	at org.eclipse.ecf.provider.filetransfer.browse.MultiProtocolFileSystemBrowserAdapter.sendBrowseRequest(MultiProtocolFileSystemBrowserAdapter.java:97)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.sendBrowseRequest(FileInfoReader.java:184)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:109)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:125)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:130)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:249)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.getLastModified(CacheManager.java:276)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:230)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepositoryFactory.getLocalFile(SimpleArtifactRepositoryFactory.java:68)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepositoryFactory.load(SimpleArtifactRepositoryFactory.java:92)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepositoryFactory.load(SimpleArtifactRepositoryFactory.java:80)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:779)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:677)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedRepository(ProvisioningContext.java:189)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedArtifactRepositories(ProvisioningContext.java:163)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getArtifactRepositories(ProvisioningContext.java:149)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.getArtifactRepositories(DownloadManager.java:110)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.start(DownloadManager.java:95)
+	at org.eclipse.equinox.internal.p2.engine.phases.Collect.completePhase(Collect.java:111)
+	at org.eclipse.equinox.internal.p2.engine.Phase.postPerform(Phase.java:254)
+	at org.eclipse.equinox.internal.p2.engine.Phase.perform(Phase.java:105)
+	at org.eclipse.equinox.internal.p2.engine.PhaseSet.perform(PhaseSet.java:50)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:80)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:48)
+	at org.eclipse.equinox.p2.operations.ProvisioningSession.performProvisioningPlan(ProvisioningSession.java:181)
+	at org.eclipse.equinox.p2.operations.ProfileModificationJob.runModal(ProfileModificationJob.java:76)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:188)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.453
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.artifact.repository.compositeRepository
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.osgi.framework.BundleContext.createFilter(String)" because "context" is null
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:187)
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:250)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getHttpClientFactory(Activator.java:241)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getBrowseHttpClient(Activator.java:266)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientBrowseFileTransferFactory$1.sendBrowseRequest(HttpClientBrowseFileTransferFactory.java:59)
+	at org.eclipse.ecf.provider.filetransfer.browse.MultiProtocolFileSystemBrowserAdapter.sendBrowseRequest(MultiProtocolFileSystemBrowserAdapter.java:97)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.sendBrowseRequest(FileInfoReader.java:184)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:109)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:125)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:130)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:249)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.getLastModified(CacheManager.java:276)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:230)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.getLocalFile(CompositeArtifactRepositoryFactory.java:71)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:95)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:779)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:677)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedRepository(ProvisioningContext.java:189)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedArtifactRepositories(ProvisioningContext.java:163)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getArtifactRepositories(ProvisioningContext.java:149)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.getArtifactRepositories(DownloadManager.java:110)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.start(DownloadManager.java:95)
+	at org.eclipse.equinox.internal.p2.engine.phases.Collect.completePhase(Collect.java:111)
+	at org.eclipse.equinox.internal.p2.engine.Phase.postPerform(Phase.java:254)
+	at org.eclipse.equinox.internal.p2.engine.Phase.perform(Phase.java:105)
+	at org.eclipse.equinox.internal.p2.engine.PhaseSet.perform(PhaseSet.java:50)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:80)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:48)
+	at org.eclipse.equinox.p2.operations.ProvisioningSession.performProvisioningPlan(ProvisioningSession.java:181)
+	at org.eclipse.equinox.p2.operations.ProfileModificationJob.runModal(ProfileModificationJob.java:76)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:188)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.engine 4 4 2021-06-27 08:39:46.524
+!MESSAGE An error occurred while collecting items to be installed
+!SUBENTRY 1 org.eclipse.equinox.p2.engine 4 0 2021-06-27 08:39:46.524
+!MESSAGE session context was:(profile=DefaultProfile, phase=org.eclipse.equinox.internal.p2.engine.phases.Collect, operand=, action=).
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.524
+!MESSAGE No repository found containing: osgi.bundle,com.google.javascript,0.0.20160315.v20161124-1903
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.524
+!MESSAGE No repository found containing: osgi.bundle,com.google.protobuf,2.4.0.v201105131100
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.524
+!MESSAGE No repository found containing: osgi.bundle,jakarta.el,4.0.0.v20210105-0527
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.524
+!MESSAGE No repository found containing: osgi.bundle,jakarta.servlet,5.0.0.v20210105-0527
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.524
+!MESSAGE No repository found containing: osgi.bundle,jakarta.servlet.jsp,3.0.0.v20210105-0527
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.524
+!MESSAGE No repository found containing: osgi.bundle,javax.jws,2.0.0.v201005080400
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.524
+!MESSAGE No repository found containing: osgi.bundle,javax.mail,1.4.0.v201005080615
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.524
+!MESSAGE No repository found containing: osgi.bundle,javax.wsdl,1.6.2.v201012040545
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.524
+!MESSAGE No repository found containing: osgi.bundle,javax.xml.rpc,1.1.0.v201209140446
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.524
+!MESSAGE No repository found containing: osgi.bundle,javax.xml.soap,1.2.0.v201005080501
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.524
+!MESSAGE No repository found containing: osgi.bundle,javax.xml.stream,1.0.1.v201004272200
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.524
+!MESSAGE No repository found containing: osgi.bundle,javax.xml.ws,2.1.0.v200902101523
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.524
+!MESSAGE No repository found containing: osgi.bundle,org.apache.axis,1.4.0.v201411182030
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.524
+!MESSAGE No repository found containing: osgi.bundle,org.apache.commons.discovery,0.2.0.v201004190315
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.524
+!MESSAGE No repository found containing: osgi.bundle,org.apache.wsil4j,1.0.0.v20180522-1857
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.524
+!MESSAGE No repository found containing: osgi.bundle,org.apache.xml.serializer,2.7.1.v201005080400
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.524
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.draw2d,3.10.100.201606061308
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.524
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.emf.common.ui,2.18.0.v20190507-0402
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.524
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.emf.edit.ui,2.20.0.v20210506-1232
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.524
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.gef,3.11.0.201606061308
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.524
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jem.beaninfo,2.0.300.v201903222024
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.524
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jem.beaninfo.vm,2.1.0.v202101081429
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.524
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jem.beaninfo.vm.common,2.1.0.v202101081429
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.524
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jem.proxy,2.1.0.v202101081429
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.524
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jsf.branding,3.5.1.v201902121810
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.524
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.jsf.feature,3.10.100.v202105172316
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.524
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.json,1.1.100.v201901071922
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.524
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.common.annotations.ui,1.1.300.v202007170603
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.524
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.common.ui,1.0.301.v201903222024
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.j2ee.ejb.annotation.model,1.1.500.v201910291429
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.j2ee.jca.ui,1.1.601.v201904091346
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.j2ee.navigator.ui,1.1.800.v202007170603
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.j2ee.ui,1.1.931.v202007170603
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.j2ee.webservice,1.1.700.v201904091346
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.j2ee.webservice.ui,1.1.800.v202103311810
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.jsf.apache.trinidad.tagsupport,1.4.1.v201902121810
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.jst.jsf.apache.trinidad.tagsupport.feature,2.6.1.v201902121810
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.jsf.common,1.5.200.v202105172316
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.jsf.common.runtime,1.4.2.v202007170344
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.jsf.common.ui,1.5.102.v202007170344
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.jsf.core,1.8.100.v202105172316
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.jsf.doc.user,1.5.0.v201902121810
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.jsf.facelet.core,1.4.2.v201902121810
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.jsf.facelet.ui,1.3.112.v201902121810
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.jsf.facesconfig,1.5.102.v201902121810
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.jsf.facesconfig.ui,1.5.2.v201902121810
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.jsf.standard.tagsupport,1.5.1.v201902121810
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.jsf.ui,1.6.103.v202003241443
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.jsp.core,1.4.0.v202103040444
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.jsp.ui,1.3.200.v202102222242
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.jsp.ui.infopop,1.0.200.v201903222120
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.pagedesigner,1.8.4.v202007170344
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.pagedesigner.jsf.ui,1.5.2.v201902121810
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.pagedesigner.jsp.core,1.5.102.v201902121810
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.standard.schemas,1.2.400.v202101070609
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.jst.web_core.feature,3.22.0.v202103200058
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.jst.web_js_support.feature,3.22.0.v202103200058
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.jst.web_ui.feature,3.22.0.v202103200058
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.jst.web_userdoc.feature,3.6.1.v201908261515
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.jst.webpageeditor.feature,2.9.1.v202007170344
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.ws,1.0.1000.v202104210249
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.ws.annotations.core,1.2.200.v202008101342
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.ws.consumption,1.0.1400.v201910301957
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.ws.consumption.ui,1.1.1001.v202103201626
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.ws.creation.ui,1.0.1001.v202103201626
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.ws.cxf.consumption.core,1.0.400.v201902162149
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.ws.cxf.consumption.ui,1.0.500.v201910301957
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.ws.cxf.core,1.1.500.v202004091240
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.ws.cxf.creation.core,1.0.500.v201902162149
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.ws.cxf.creation.ui,1.0.400.v201910301957
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.ws.cxf.doc.user,1.0.300.v201902162149
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.jst.ws.cxf.feature,1.1.800.v202104210249
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.ws.cxf.ui,1.0.500.v202104210249
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.ws.jaxws.core,1.0.600.v202104210249
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.ws.jaxws.doc.user,1.0.400.v201902162216
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.ws.jaxws.dom.runtime,1.0.301.v201902162228
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.ws.jaxws.ui,1.0.600.v202008101342
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.ws.jaxws.utils,1.0.302.v201902162239
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.jst.ws.jaxws_userdoc.feature,1.0.403.v201909051708
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jst.ws.ui,1.1.1.v202103201626
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.command.env,1.0.600.v202007142057
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.command.env.core,1.1.0.v201910301957
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.command.env.doc.user,1.5.400.v201903222115
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.command.env.infopop,1.0.200.v201903050508
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.command.env.ui,1.2.0.v201910301957
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.common.infopop,1.0.301.v202007142017
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.common.snippets,1.2.500.v201811170421
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.wst.common_core.feature,3.22.0.v202103232321
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.wst.common_ui.feature,3.22.0.v202103232321
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.css.core,1.3.0.v202101180039
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.css.ui,1.2.0.v202101180039
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.doc.user,1.2.0.v201903222120
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.dtd.core,1.2.200.v202102251419
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.dtd.ui,1.1.300.v202008091424
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.dtd.ui.infopop,1.0.400.v201903222120
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.dtdeditor.doc.user,1.1.0.v201903222120
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.html.core,1.4.0.v202101180039
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.html.ui,1.1.600.v202105181958
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.html.ui.infopop,1.0.201.v201903222120
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.internet.cache,1.1.0.v202011161431
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.jsdt.core,2.0.303.v202007221940
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.jsdt.manipulation,1.0.601.v201903222047
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.jsdt.ui,2.1.300.v202106021855
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.jsdt.web.core,1.1.100.v202005120035
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.jsdt.web.support.jsp,1.1.101.v202101180039
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.jsdt.web.ui,1.2.201.v202101180039
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.json.bower.core,1.0.0.v201901071922
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.json.bower.ui,1.0.200.v201904210526
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.json.core,1.1.0.v201901152013
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.json.eslint.core,1.0.0.v201901071922
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.json.eslint.ui,1.0.200.v201904210526
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.json.jshint.core,1.0.1.v201908281850
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.json.jshint.ui,1.0.200.v201904210526
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.json.npm.core,1.0.0.v201901071922
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.json.npm.ui,1.0.100.v201904210526
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.json.schemaprocessor,1.0.200.v201901071922
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.json.ui,1.0.600.v202103121626
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.wst.json_core.feature,1.1.8.v201909302219
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.wst.json_ui.feature,1.1.10.v202103121626
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.sse.doc.user,1.2.0.v201903222120
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.sse.ui.infopop,1.0.300.v201903222120
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.standard.schemas,1.0.800.v201901071922
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.validation.infopop,1.0.300.v202007131715
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.web.ui,1.2.103.v202101180039
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.web.ui.infopop,1.0.300.v201903222120
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.wst.web_core.feature,3.22.0.v202103232331
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.wst.web_js_support.feature,3.22.0.v202103232331
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.wst.web_ui.feature,3.22.0.v202105181958
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.wst.web_userdoc.feature,3.18.0.v202004271556
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.webtools.doc.user,1.0.500.v201903222120
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.ws,1.1.600.v202007222105
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.ws.explorer,1.1.0.v202103201626
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.ws.infopop,1.0.400.v201903050508
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.ws.parser,1.1.0.v201910301957
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.ws.service.policy,1.0.450.v201903050508
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.ws.service.policy.ui,1.0.500.v201903050508
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.ws.ui,1.2.0.v201910301957
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.wst.ws_core.feature,3.21.0.v202101270311
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.wst.ws_ui.feature,3.9.100.v202004082157
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.wst.ws_userdoc.feature,3.1.501.v201909051708
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.wsdl,1.3.0.v201910301957
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.wsdl.ui,1.3.100.v202004082216
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.wsdl.ui.doc.user,1.0.850.v201903222115
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.wsdl.validation,1.3.0.v202101270311
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.wsi,1.1.300.v202101270311
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.wsi.ui,1.1.100.v202007221938
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.wsi.ui.doc.user,1.0.750.v201903222115
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.xml.ui.infopop,1.0.400.v201903222120
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.wst.xml_core.feature,3.22.0.v202103232331
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.wst.xml_ui.feature,3.22.0.v202103232331
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.wst.xml_userdoc.feature,3.18.0.v202004271556
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.xmleditor.doc.user,1.1.0.v201903222120
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.xsd.ui,1.3.400.v202008091424
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.wst.xsdeditor.doc.user,1.0.800.v201903222120
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.xsd.edit,2.11.0.v20200723-0820
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.jdom,1.1.1.v201101151400
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-06-27 08:39:46.525
+!MESSAGE No repository found containing: osgi.bundle,org.uddi4j,2.0.5.v200805270300
+!SESSION 2021-06-27 08:39:47.650 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-06-27 08:39:51.728
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-06-27 08:39:51.728
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3d8fd373,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2dcd451f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-06-27 08:39:56.200
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\pc'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY Activator 1 0 2021-06-27 08:39:58.770
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:39:58.771
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:39:58.774
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY org.eclipse.ui 2 2 2021-06-27 08:44:03.599
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2021-06-27 08:44:05.283 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -data file:/E:/Post_Placement/Spring_Boot/Workspace_Telusko/ -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-06-27 08:44:12.260
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-06-27 08:44:12.260
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3bf4644c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@30adae45,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-06-27 08:44:16.089
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\pc'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY Activator 1 0 2021-06-27 08:44:18.505
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:44:18.505
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 08:44:18.505
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:44:20.369
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:44:20.373
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY org.eclipse.ui 2 2 2021-06-27 08:45:20.959
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-06-27 08:46:08.457
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:46:08.458
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:46:08.468
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 08:46:08.556
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 08:46:08.605
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:46:08.643
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:46:10.258
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:46:10.258
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 08:46:10.259
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:46:11.271
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:46:11.272
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 08:46:11.276
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:46:59.655
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 08:46:59.655
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:46:59.655
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:48:39.021
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:48:39.025
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:48:39.025
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:48:39.408
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:48:39.408
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@7f210477[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:48:39.411
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:48:39.454
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2021-06-27 08:48:39.574
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 08:48:39.607
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:48:39.642
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:48:41.682
+!MESSAGE Boot LS startup time from start to initialized: 2263ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:48:41.778
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.wCxcuNpkisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:48:41.781
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:48:41.783
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:48:41.783
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:48:41.783
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.wCxcuNpk => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:48:41.785
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:48:41.791
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:48:41.794
+!MESSAGE buffering callback sts4.classpath.wCxcuNpk Web_Application false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:48:41.795
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:48:41.798
+!MESSAGE classpath=52 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:48:41.801
+!MESSAGE buffering callback sts4.classpath.wCxcuNpk Autowire_Dependency_Injection false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:48:41.802
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:48:41.805
+!MESSAGE classpath=52 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:48:41.808
+!MESSAGE buffering callback sts4.classpath.wCxcuNpk FirstProject false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:48:41.808
+!MESSAGE executing callback sts4.classpath.wCxcuNpk 3 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 08:48:42.218
+!MESSAGE executing callback sts4.classpath.wCxcuNpk SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-06-27 08:53:33.245
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:53:33.264
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 08:53:33.268
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:53:33.820
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 08:53:33.822
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:53:33.866
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:53:41.029
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:53:41.037
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 08:53:41.038
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:53:41.573
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:53:41.574
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 08:53:41.625
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:54:06.264
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:54:06.265
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 08:54:06.266
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:54:06.935
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:54:06.936
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 08:54:06.943
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:58:37.542
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:58:37.543
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 08:58:37.547
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 08:58:38.195
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 08:58:38.248
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 08:58:38.252
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 09:06:56.465
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 09:06:56.468
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 09:06:56.499
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 09:06:57.028
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 09:06:57.050
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 09:06:57.072
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 09:10:49.299
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 09:10:49.299
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 09:10:49.315
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 09:10:51.590
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 09:10:51.591
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 09:10:51.592
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 09:13:09.731
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 09:13:09.762
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 09:13:09.773
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-06-27 09:13:10.552
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.operations.declaration.OpenDeclarationHyperlinkDetector.detectHyperlinks(OpenDeclarationHyperlinkDetector.java:94)
+	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4026)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3626)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-06-27 09:13:12.559
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.operations.documentLink.DocumentLinkDetector.detectHyperlinks(DocumentLinkDetector.java:121)
+	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4026)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3626)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-06-27 09:13:12.559
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.operations.documentLink.DocumentLinkDetector.lambda$3(DocumentLinkDetector.java:91)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:550)
+	at java.base/java.util.stream.AbstractPipeline.evaluateToArrayNode(AbstractPipeline.java:260)
+	at java.base/java.util.stream.ReferencePipeline.toArray(ReferencePipeline.java:616)
+	at org.eclipse.lsp4e.operations.documentLink.DocumentLinkDetector.lambda$1(DocumentLinkDetector.java:115)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:295)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+
+!ENTRY Activator 1 0 2021-06-27 09:13:23.089
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 09:13:23.089
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 09:13:23.090
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 09:13:23.091
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 09:13:23.099
+!MESSAGE classpath=76 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 09:13:23.102
+!MESSAGE buffering callback sts4.classpath.wCxcuNpk Web_Application false 76
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 09:13:23.103
+!MESSAGE executing callback sts4.classpath.wCxcuNpk 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 09:13:23.131
+!MESSAGE executing callback sts4.classpath.wCxcuNpk SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-06-27 09:13:23.786
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 09:13:23.789
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 09:13:23.848
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 09:13:23.922
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 09:13:23.923
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 09:13:23.923
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 09:13:42.788
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 09:13:42.788
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 09:13:42.791
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 09:13:42.855
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 09:13:42.861
+!MESSAGE classpath=76 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 09:13:42.865
+!MESSAGE buffering callback sts4.classpath.wCxcuNpk Web_Application false 76
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 09:13:42.866
+!MESSAGE executing callback sts4.classpath.wCxcuNpk 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 09:13:42.882
+!MESSAGE executing callback sts4.classpath.wCxcuNpk SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-06-27 09:13:43.000
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 09:13:43.001
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 09:13:43.030
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 09:19:56.428
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 09:19:56.428
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 09:19:56.434
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 09:19:56.466
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 09:19:56.473
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 09:21:34.653
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-27 09:21:34.653
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 09:21:34.654
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 09:21:51.874
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-27 09:21:51.881
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-27 09:21:51.887
+!MESSAGE Has main method computation for project 'FirstProject'
