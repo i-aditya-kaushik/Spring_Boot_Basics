@@ -27,3 +27,13 @@ extension we edit the Application properties which resides in the resources fold
 call the session, and set the attribute in that session
 
 9. For request, we use HttpServletRequest; for response, we use HttpServletResponse
+
+10. @RequestParam contains the specific variable which needs to be mapped with the java variable for 
+the ease of use
+
+11. Session is required to send the data to home.jsp
+
+12. Model and View config is implemented by ModelAndView
+
+13. We send the data and viewname using ModelAndView. Data is added from addObject
+and the view is set from setViewName
