@@ -1,0 +1,32 @@
+1. Function of Generating Getters and Setters in Source Column :
+Used for making a template to set or get the vars
+2. Idea of Dependency Injection: To create instance of a class in main while
+injecting a particular trait into the context
+3. Exception in thread "main" org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.example.demo.Alien' available
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBean(DefaultListableBeanFactory.java:351)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBean(DefaultListableBeanFactory.java:342)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1172)
+	at com.example.demo.AutowireDependencyInjectionApplication.main(AutowireDependencyInjectionApplication.java:12)
+   Error which comes after we try to inject a class 
+4. Inside a JVM, we have Spring Container
+    Container contains Spring bean
+    When you create a Spring bean, two scopes are there:
+        1. Singleton : By default, it gives this scope, and it makes the objects even when not required
+        2. Prototype , these 2 being core scope
+        3. Request
+        4. Session
+
+5. ConfigurableApplicationContext context =  SpringApplication.run(AutowireDependencyInjectionApplication.class, args);
+   This creates a container
+   Let's say we have 10 objects, in order to avoid complexity, the developer needs to specify which classes are to be Used
+   We need to specify it as a component
+   On creation, it will create one object of Alien class by default after calling it a component
+   When we say getBean, the container checks for the available beans, in the arg we need to say of which type, in our case, that of 
+   Alien class.
+
+6. Lets say we need two objects, in that case, first the scope needs to be changed as the default scope is Singleton, to Prototype
+   If using Prototype, it will not make that object unless called by the developer
+
+7. Eclipse provides toString, which prints all the vars of an object.
+
+8. In order to instantiate a class in another class, we use AutoWiring
