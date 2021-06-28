@@ -20,3 +20,10 @@ Thereafter, we need to call the class, in our case Alien and the ID needs to be 
 in our case, Integer.
 
 6. The interface needs to be called inside the Controller, and needs to be autowired.
+
+7. We need a service layer because we are not sure about the source of data which is incoming.
+The data directly interacts with the service layer and therefore, service layer is a must.
+
+8. For viewing on the basis of one of the attributes, we can use ModelAndView.
+
+9. ModelAndView enables a constructor which view can be passed in the argument.
