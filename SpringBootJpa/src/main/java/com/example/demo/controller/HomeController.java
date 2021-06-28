@@ -1,5 +1,7 @@
 package com.example.demo.controller;
 
+import java.util.List;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -52,6 +54,16 @@ public class HomeController {
 		ModelAndView mv = new ModelAndView("delAlien.jsp");
 		Alien alien = repo.findById(aid).orElse(new Alien());
 		repo.deleteById(aid);
+		mv.addObject(alien);
+		return mv;
+	}
+	
+	@RequestMapping("/getAlienbyTech")
+	public ModelAndView getAlienbyTech(@RequestParam("tech") String tech) {
+		ModelAndView mv = new ModelAndView("showByTech.jsp");
+		List<Alien> outlist = repo.findByTech(tech);
+		System.out.println(outlist);
+		Alien alien = outlist.get(0); 
 		mv.addObject(alien);
 		return mv;
 	}

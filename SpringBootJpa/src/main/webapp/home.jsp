@@ -34,5 +34,15 @@
 		<input type="text" name="aid" placeholder="Enter ID"><br>
 		<input type="submit"><br>
 	</form>
+	<br>
+	------------------------
+	<br>
+	Query Methods:<br>
+	Access W.R.T the technology:<br>
+	<form action="getAlienbyTech">
+		<input type="text" name="tech" placeholder="Enter Tech"><br>
+		<input type="submit"><br>
+	</form>
+	<br>
 </body>
 </html>

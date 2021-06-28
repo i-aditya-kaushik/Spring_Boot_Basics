@@ -27,3 +27,16 @@ The data directly interacts with the service layer and therefore, service layer 
 8. For viewing on the basis of one of the attributes, we can use ModelAndView.
 
 9. ModelAndView enables a constructor which view can be passed in the argument.
+
+10. One can also used customised queries by defining them in the interface which extends CrudRepository
+
+11. Preinstalled Query Methods are present. One of them is findBy<VarName> or getBy<VarName> which returns
+the desired output wrt that variable.
+
+12. Another query method is GreaterThan. Works in the following format:
+findBy<VarName>GreaterThan(). Same for LessThan. 
+
+13. Another property is Sorted. In this, we need to define a @Query on top of the function.
+    Eg: 
+    @Query("from Alien where tech=?1 order by aname")
+    List<Alien> findByTechSorted(String tech);
