@@ -45,3 +45,8 @@ findBy<VarName>GreaterThan(). Same for LessThan.
 
 15. @PathVariable is used to assign the value of the variable and map it to the java program. Additionally, the variables
 of the @RequestMapping are enclosed in {}. 
+
+16. JpaRepository is an extension of CrudRepository with additional features. 
+
+17. A client (in our case Postman) is generally used in Spring Framework to help ease and view complex queries like Delete and Update.
+

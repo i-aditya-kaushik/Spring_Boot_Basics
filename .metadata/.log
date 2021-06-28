@@ -12619,3 +12619,192 @@ java.lang.InterruptedException
 
 !ENTRY Activator 1 0 2021-06-29 04:31:43.025
 !MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-29 04:38:47.432
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-29 04:38:47.432
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-29 04:38:47.433
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-29 04:38:47.466
+!MESSAGE Has main method computation for project 'SpringBootJpa'
+
+!ENTRY org.eclipse.jface 2 0 2021-06-29 04:39:06.358
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-06-29 04:39:06.358
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2ac3926,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7dce7d19,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-06-29 04:40:49.280
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-06-29 04:40:54.612
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-06-29 04:41:19.833
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-29 04:41:19.835
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-29 04:41:19.837
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-29 04:41:19.870
+!MESSAGE Has main method computation for project 'SpringBootJpa'
+
+!ENTRY Activator 1 0 2021-06-29 04:41:20.405
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-29 04:41:20.412
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-29 04:41:20.415
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-29 04:41:20.418
+!MESSAGE Has main method computation for project 'SpringBootJpa'
+
+!ENTRY Activator 1 0 2021-06-29 04:41:45.470
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-29 04:41:45.470
+!MESSAGE Has main method computation for project 'SpringBootJpa'
+
+!ENTRY Activator 1 0 2021-06-29 04:41:45.470
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-29 04:41:45.471
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-29 04:41:46.057
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-29 04:41:46.057
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-29 04:41:46.059
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-29 04:41:46.088
+!MESSAGE Has main method computation for project 'SpringBootJpa'
+
+!ENTRY Activator 1 0 2021-06-29 04:44:04.511
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-29 04:44:04.511
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-29 04:44:04.512
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-29 04:44:04.535
+!MESSAGE Has main method computation for project 'SpringBootJpa'
+
+!ENTRY Activator 1 0 2021-06-29 04:44:05.241
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-29 04:44:05.242
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-29 04:44:05.244
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-29 04:44:05.249
+!MESSAGE Has main method computation for project 'SpringBootJpa'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-06-29 04:46:05.342
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-06-29 04:47:31.041
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-29 04:47:31.041
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-29 04:47:31.041
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-29 04:47:31.042
+!MESSAGE Has main method computation for project 'SpringBootJpa'
+
+!ENTRY Activator 1 0 2021-06-29 04:47:31.927
+!MESSAGE Has main method computation for project 'SpringBootJpa'
+
+!ENTRY Activator 1 0 2021-06-29 04:47:31.929
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-29 04:47:31.947
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-29 04:47:31.966
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-29 04:47:37.087
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-29 04:47:37.089
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-29 04:47:37.090
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-29 04:47:37.090
+!MESSAGE Has main method computation for project 'SpringBootJpa'
+
+!ENTRY Activator 1 0 2021-06-29 04:47:37.664
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-29 04:47:37.666
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-29 04:47:37.673
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-29 04:47:37.687
+!MESSAGE Has main method computation for project 'SpringBootJpa'
