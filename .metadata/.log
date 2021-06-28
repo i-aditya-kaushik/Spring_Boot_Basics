@@ -11213,3 +11213,207 @@ java.util.concurrent.TimeoutException
 
 !ENTRY Activator 1 0 2021-06-28 13:29:03.282
 !MESSAGE Has main method computation for project 'SpringBootJpa'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-06-28 13:42:01.508
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-06-28 13:43:06.955
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-28 13:43:06.956
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-28 13:43:06.957
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-28 13:43:06.987
+!MESSAGE Has main method computation for project 'SpringBootJpa'
+
+!ENTRY Activator 1 0 2021-06-28 13:43:07.482
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-28 13:43:07.484
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-28 13:43:07.485
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-28 13:43:07.523
+!MESSAGE Has main method computation for project 'SpringBootJpa'
+
+!ENTRY Activator 1 0 2021-06-28 13:44:44.894
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-28 13:44:44.898
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-28 13:44:44.935
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-28 13:44:44.936
+!MESSAGE Has main method computation for project 'SpringBootJpa'
+
+!ENTRY Activator 1 0 2021-06-28 13:45:48.696
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-28 13:45:48.696
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-28 13:45:48.697
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-28 13:45:48.697
+!MESSAGE Has main method computation for project 'SpringBootJpa'
+
+!ENTRY Activator 1 0 2021-06-28 13:45:49.736
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-28 13:45:49.737
+!MESSAGE Has main method computation for project 'SpringBootJpa'
+
+!ENTRY Activator 1 0 2021-06-28 13:45:49.737
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-28 13:45:49.737
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-28 13:46:53.652
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-28 13:46:53.654
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-28 13:46:53.655
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-28 13:46:53.682
+!MESSAGE Has main method computation for project 'SpringBootJpa'
+
+!ENTRY Activator 1 0 2021-06-28 13:47:45.282
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-28 13:47:45.283
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-28 13:47:45.283
+!MESSAGE Has main method computation for project 'SpringBootJpa'
+
+!ENTRY Activator 1 0 2021-06-28 13:47:45.289
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-28 13:49:51.888
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-28 13:49:51.889
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-28 13:49:51.890
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-28 13:49:51.895
+!MESSAGE Has main method computation for project 'SpringBootJpa'
+
+!ENTRY Activator 1 0 2021-06-28 13:49:52.426
+!MESSAGE Has main method computation for project 'SpringBootJpa'
+
+!ENTRY Activator 1 0 2021-06-28 13:49:52.462
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-28 13:49:52.465
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-28 13:49:52.467
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-28 13:50:46.164
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-28 13:50:46.165
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-28 13:50:46.165
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-28 13:50:46.165
+!MESSAGE Has main method computation for project 'SpringBootJpa'
+
+!ENTRY Activator 1 0 2021-06-28 13:50:46.741
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-28 13:50:46.742
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-28 13:50:46.746
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-28 13:50:46.752
+!MESSAGE Has main method computation for project 'SpringBootJpa'
+
+!ENTRY Activator 1 0 2021-06-28 13:53:32.503
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-28 13:53:32.504
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-28 13:53:32.505
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-28 13:53:32.510
+!MESSAGE Has main method computation for project 'SpringBootJpa'
+
+!ENTRY Activator 1 0 2021-06-28 13:53:33.029
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-28 13:53:33.045
+!MESSAGE Has main method computation for project 'SpringBootJpa'
+
+!ENTRY Activator 1 0 2021-06-28 13:53:33.076
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-28 13:53:33.081
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-28 13:58:11.457
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-28 13:58:11.457
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-28 13:58:11.460
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-28 13:58:11.492
+!MESSAGE Has main method computation for project 'SpringBootJpa'
+
+!ENTRY Activator 1 0 2021-06-28 13:58:12.088
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-28 13:58:12.088
+!MESSAGE Has main method computation for project 'SpringBootJpa'
+
+!ENTRY Activator 1 0 2021-06-28 13:58:12.088
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-28 13:58:12.089
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-28 14:01:19.726
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-28 14:01:19.726
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-28 14:01:19.748
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-28 14:01:19.753
+!MESSAGE Has main method computation for project 'SpringBootJpa'
