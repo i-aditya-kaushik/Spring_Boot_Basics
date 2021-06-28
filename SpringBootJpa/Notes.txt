@@ -50,3 +50,10 @@ of the @RequestMapping are enclosed in {}.
 
 17. A client (in our case Postman) is generally used in Spring Framework to help ease and view complex queries like Delete and Update.
 
+18. In order to ensure that the XML format is also supported by the application, the dev needs to include it as a dependency in pom.xml
+Map it to the jackson version you are using and copy that dependency.
+
+19. Now if a person sets the header for key Accept as the value application/xml, then the return type will be xml
+
+20. In order to restrict the returning body to a particular format, one can add the argument of produces which can have the format name 
+in the curly brackets as a string. eg @RequestMapping(path = "/aliens", produces = {"application/xml"})

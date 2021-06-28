@@ -71,8 +71,8 @@ public class HomeController {
 		return mv;
 	}
 	
-	// REST 
-	@RequestMapping("/aliens")
+	// ---------------------------- REST --------------------------- 
+	@RequestMapping(path = "/aliens", produces = {"application/xml"})
 	@ResponseBody
 	public List<Alien> getAliens() {
 		return repo.findAll();
