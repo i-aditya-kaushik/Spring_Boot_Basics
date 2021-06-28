@@ -40,3 +40,8 @@ findBy<VarName>GreaterThan(). Same for LessThan.
     Eg: 
     @Query("from Alien where tech=?1 order by aname")
     List<Alien> findByTechSorted(String tech);
+
+14. REST Example utilises the resource and can be implemented by the Spring Framework
+
+15. @PathVariable is used to assign the value of the variable and map it to the java program. Additionally, the variables
+of the @RequestMapping are enclosed in {}. 
