@@ -1,0 +1,22 @@
+1. It's a good practice to separate the different filetypes in different
+packages.
+
+2. Controller needs to be set up everytime. h2 needs to be enabled with the 
+help of the application.properties:
+spring.h2.console.enabled=true
+spring.sql.init.platform=h2
+spring.datasource.url=jdbc:h2:mem:aditya
+spring.sql.init.mode=always
+spring.jpa.defer-datasource-initialization = true
+
+3. The h2 console can be accessed with localhost:8080/h2-console
+
+4. JPA needs to be enabled to make a table, for which we need to call the class as 
+a @Entity with a primary key marked as @Id
+
+5. To create a new row using home.jsp, we need to first define the form function in 
+Controller.java and then we need to define an interface and extend the CrudRepository. 
+Thereafter, we need to call the class, in our case Alien and the ID needs to be defined,
+in our case, Integer.
+
+6. The interface needs to be called inside the Controller, and needs to be autowired.
