@@ -38,9 +38,20 @@ public class HomeController {
 	public ModelAndView updateAlien(@RequestParam("aid") int aid,@RequestParam("aname") String name,@RequestParam("tech") String tech) {
 		ModelAndView mv = new ModelAndView("showAlien.jsp");
 		Alien alien = repo.findById(aid).orElse(new Alien());
+		if(name!="")
 		alien.setAname(name);
+		if(tech!="")
 		alien.setTech(tech);
 		repo.save(alien);
+		mv.addObject(alien);
+		return mv;
+	}
+	
+	@RequestMapping("/delAlien")
+	public ModelAndView delAlien(@RequestParam int aid) {
+		ModelAndView mv = new ModelAndView("delAlien.jsp");
+		Alien alien = repo.findById(aid).orElse(new Alien());
+		repo.deleteById(aid);
 		mv.addObject(alien);
 		return mv;
 	}

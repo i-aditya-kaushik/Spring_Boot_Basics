@@ -29,5 +29,10 @@
 		<input type="submit"><br>
 	</form>
 	<br>
+	For Deleting Data <br>
+	<form action="delAlien">
+		<input type="text" name="aid" placeholder="Enter ID"><br>
+		<input type="submit"><br>
+	</form>
 </body>
 </html>
