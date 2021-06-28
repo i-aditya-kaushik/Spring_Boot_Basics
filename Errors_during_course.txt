@@ -8,3 +8,5 @@ define with m, which is mb)
 4. In order to include template jsp, xml or other web resources: i. Go to Add support help — install new
 ii. Download Web, XML, Java EE and OSGi Enterprise Development
 Source: https://www.programmersought.com/article/94241329005/
+5. spring.jpa.defer-datasource-initialization = true must be set in application.properties in order to enable 
+initialization of the db, else, the application will give the error of table not found
