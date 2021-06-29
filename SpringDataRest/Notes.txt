@@ -1,0 +1,7 @@
+1. Spring Data Rest makes it easier to work with Spring Framework. We do not need Controller with the help of Spring Data Rest.
+
+2. Spring Data Rest can be utilised by Defining the interface class as a @RepositoryRestResource(collectionResourceRel = "aliens",path="aliens")
+
+3. It gives the links for the autoconfigured data as well.
+
+4. All the CRUD Operations can be executed with the above method
