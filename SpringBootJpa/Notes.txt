@@ -69,3 +69,5 @@ raw data has to be in json format for obvious reasons.
 24. For post, if the data format needs to be restricted, then one has to use consumes instead of produces.
 
 25. For Delete Operation, we use @DeleteMapping, the remaining part remains the same.
+
+26. For Update Operation, we use @PutMapping.
