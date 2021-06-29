@@ -5,6 +5,7 @@ import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -100,5 +101,13 @@ public class HomeController {
 	@ResponseBody
 	public List<Alien> getAlien_tech(@PathVariable("tech") String tech) {
 		return repo.findByTech(tech);
+	}
+	
+	@DeleteMapping("/alien/{aid}")
+	@ResponseBody
+	public Alien delAlien_rest(@PathVariable("aid") int aid) {
+		Alien alien = repo.findById(aid).orElse(new Alien());
+		repo.deleteById(aid);
+		return alien;
 	}
 }
