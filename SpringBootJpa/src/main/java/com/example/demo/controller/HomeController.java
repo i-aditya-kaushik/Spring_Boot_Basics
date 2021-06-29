@@ -6,6 +6,8 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
@@ -72,7 +74,9 @@ public class HomeController {
 	}
 	
 	// ---------------------------- REST --------------------------- 
-	@RequestMapping(path = "/aliens", produces = {"application/xml"})
+	// @RequestMapping(path = "/aliens", produces = {"application/xml"})
+	// To restrict return type in the format of xml ^
+	@RequestMapping("/aliens")
 	@ResponseBody
 	public List<Alien> getAliens() {
 		return repo.findAll();
@@ -82,6 +86,14 @@ public class HomeController {
 	@ResponseBody
 	public Optional<Alien> getAlien_rest(@PathVariable("aid") int aid) {
 		return repo.findById(aid);
+	}
+	
+//	@PostMapping(path="/alien",consumes= {"application/json"})
+	@PostMapping("/alien")
+	@ResponseBody
+	public Alien postAlien_rest(@RequestBody Alien alien) {
+		repo.save(alien);
+		return alien;
 	}
 	
 	@RequestMapping("/alien/tech/{tech}")

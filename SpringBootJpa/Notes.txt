@@ -57,3 +57,15 @@ Map it to the jackson version you are using and copy that dependency.
 
 20. In order to restrict the returning body to a particular format, one can add the argument of produces which can have the format name 
 in the curly brackets as a string. eg @RequestMapping(path = "/aliens", produces = {"application/xml"})
+
+21. POST can be implemented with the help of PostMapping. [Similarly, GetMapping is also present as an option]
+
+22. If the complete application is REST based, meaning all the return datatypes are in the format of json or related formats, then instead
+of Controller, one can simply call it a RestController. This would mean that the dev does not need to call @ResponseBody everytime
+
+23. In order to send a raw data, one has to call the argument as RequestBody to ensure that the raw data is accepted as a body. Note that the 
+raw data has to be in json format for obvious reasons.
+
+24. For post, if the data format needs to be restricted, then one has to use consumes instead of produces.
+
+25. 
