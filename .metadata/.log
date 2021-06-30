@@ -14479,3 +14479,36 @@ java.lang.InterruptedException
 
 !ENTRY Activator 1 0 2021-06-29 08:23:19.100
 !MESSAGE Has main method computation for project 'SpringBootJpa'
+
+!ENTRY Activator 1 0 2021-06-29 08:38:52.900
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY Activator 1 0 2021-06-29 08:38:52.903
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-29 08:38:52.938
+!MESSAGE Has main method computation for project 'SpringBootJpa'
+
+!ENTRY Activator 1 0 2021-06-29 08:38:52.957
+!MESSAGE Has main method computation for project 'Autowire_Dependency_Injection'
+
+!ENTRY Activator 1 0 2021-06-29 08:38:52.988
+!MESSAGE Has main method computation for project 'FirstProject'
+
+!ENTRY Activator 1 0 2021-06-29 08:38:53.016
+!MESSAGE Has main method computation for project 'SpringDataRest'
+
+!ENTRY Activator 1 0 2021-06-29 08:38:53.024
+!MESSAGE Has main method computation for project 'Web_Application'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-29 08:44:22.424
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.LXQVfKgQ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-29 08:44:22.424
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.LXQVfKgQ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-29 08:44:22.425
+!MESSAGE subsribers = {sts4.classpath.sSKwLfdi=Send Classpath Notifications(1546)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-29 08:44:22.425
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.LXQVfKgQ => OK
